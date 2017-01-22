@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I Got To Here..."
-date:   2017-01-22 18:26:43 +0000
+date:   2017-01-22 13:26:44 -0500
 ---
 
 
