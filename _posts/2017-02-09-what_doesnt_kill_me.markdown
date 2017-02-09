@@ -4,7 +4,9 @@ title:  "what_doesnt_kill_me ==...*"
 date:   2017-02-08 21:18:56 -0500
 ---
 
-# ..."makes me stronger" || "drives me inexorably toward madness" ?
+
+
+#  ..."makes me stronger" || "drives me inexorably toward madness" ?
 
 One of the themes that's developed as I work my way through the Flatiron program is: the hard stuff's never what you think it's gonna be. Labs that I expect to be grueling slogs breeze by in under and hour; labs that look like quick, uncomplicated exercises turn into daylong plummets through multidimensional portals of recursive error. 
 
