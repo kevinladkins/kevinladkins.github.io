@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "what_doesnt_kill_me ==...*"
-date:   2017-02-09 02:18:54 +0000
+date:   2017-02-08 21:18:56 -0500
 ---
 
 # ..."makes me stronger" || "drives me inexorably toward madness" ?
