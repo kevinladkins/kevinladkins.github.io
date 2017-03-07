@@ -9,6 +9,8 @@ I think it was about two weeks ago that I hit the lesson "<a href = "https://lea
 
 It was somewhere between the bit on the Request Cycle and the explanation of how forms are posted to Controllers that I had what I'd call a "<a href = "https://en.wikipedia.org/wiki/The_Usual_Suspects">Keyser Soze </a> moment." 
 
+<a href="http://imgur.com/gaY6HEP"><img src="http://i.imgur.com/gaY6HEP.gif" title="source: imgur.com" /></a>
+
 All at once, all those seemingly disperate subjects I'd been struggling through for the past months -- Ruby, Object-Oriented Design, databases, web protocols etc. -- coalesced into a single, unified picture: the "full stack" of Web development. There's something incomparably thrilling about that moment when all the pieces come together. Suddenly seeing how Ruby classes interact with ActiveRecord databases via Sinatra Controllers to display web pages in HTML -- it made everything that had come before seem worth it. 
 
 So when it came time to do my Sinatra portfolio project, I found myself legitimately *excited* to put this newfound understanding to work. To put the cherry on top, my chosen project also allowed me to indulge my insufferably Hipsterish devotion to vinyl records: 
@@ -28,6 +30,8 @@ The solution is actually pretty simple, and presumably obvious to anyone who's b
 Of course, as is my wont, I also spent unseemly amounts of time tinkering around with features that weren't even part of the assignment (see also <a href = "https://kevinladkins.github.io/2017/02/09/what_doesnt_kill_me/">this</a>). For example, I thought it would be nice to build a little banner up top with some navigational links... 
 
 <a href="http://imgur.com/lR8sjos"><img src="http://i.imgur.com/lR8sjos.png?2" title="source: imgur.com" /></a>
+
+<a href="http://imgur.com/vXRMqlg"><img src="http://i.imgur.com/vXRMqlg.gif" title="source: imgur.com" /></a>
 
 ...which ended up requiring many hours of Dante-like descent into the unholy hell that is HTML element positioning (I've lost whole days trying to definitively wrap my head around `position: relative` vs `position: absolute` vs `position fixed` and how they interact with `float`, to no discernable avail). And after all that, what I ended up with looks.... okay. Not bad for an amateur, perhaps, but not exactly professional quality. That's a ways off yet, but still -- these last couple of weeks have felt like serious steps forward. 
 
