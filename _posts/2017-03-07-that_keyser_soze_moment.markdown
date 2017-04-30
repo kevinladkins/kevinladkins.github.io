@@ -9,8 +9,6 @@ I think it was about two weeks ago that I hit the lesson "<a href = "https://lea
 
 It was somewhere between the bit on the Request Cycle and the explanation of how forms are posted to Controllers that I had what I'd call a "<a href = "https://en.wikipedia.org/wiki/The_Usual_Suspects">Keyser Soze </a> moment." 
 
-<a href="http://imgur.com/gaY6HEP"><img src="http://i.imgur.com/gaY6HEP.gif" title="source: imgur.com" /></a>
-
 All at once, all those seemingly disperate subjects I'd been struggling through for the past months -- Ruby, Object-Oriented Design, databases, web protocols etc. -- coalesced into a single, unified picture: the "full stack" of Web development. There's something incomparably thrilling about that moment when all the pieces come together. Suddenly seeing how Ruby classes interact with ActiveRecord databases via Sinatra Controllers to display web pages in HTML -- it made everything that had come before seem worth it. 
 
 So when it came time to do my Sinatra portfolio project, I found myself legitimately *excited* to put this newfound understanding to work. To put the cherry on top, my chosen project also allowed me to indulge my insufferably Hipsterish devotion to vinyl records: 
