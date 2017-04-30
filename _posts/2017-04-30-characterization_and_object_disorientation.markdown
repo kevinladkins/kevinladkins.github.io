@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Characterization and Object Disorientation"
-date:   2017-04-30 21:57:40 +0000
+date:   2017-04-30 17:57:40 -0400
 ---
 
 
