@@ -139,7 +139,7 @@ The simplest version of that logic looks like this:
 class ApplicationController < ActionController::Base
 
 	
-	def authenticate
+  def authenticate
       if request.env["HTTP_AUTHORIZATION"]
           token = request.env["HTTP_AUTHORIZATION"].split(" ").last
           decoded = Auth.decode_token(token)
@@ -149,13 +149,13 @@ class ApplicationController < ActionController::Base
            {message: "You must include a JWT token!"}
         }, status: 403
       end
-    end
+   end
 	
-	def current_user
+	 def current_user
       @user ||= User.find_by(id: @user_id) if @user_id
    end
 		
- end
+end
 ```
 
 To break it down further: 
