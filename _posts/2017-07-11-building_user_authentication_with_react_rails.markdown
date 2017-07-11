@@ -135,6 +135,7 @@ This token can then be stored in your React App and used to authenticate further
 
 The simplest version of that logic looks like this: 
 
+```
 class ApplicationController < ActionController::Base
 
 	
@@ -155,6 +156,7 @@ class ApplicationController < ActionController::Base
    end
 		
  end
+```
 
 To break it down further: 
 
