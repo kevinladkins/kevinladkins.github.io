@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building User Authentication with React/Rails"
-date:   2017-07-11 23:12:19 +0000
+date:   2017-07-11 19:12:20 -0400
 ---
 
 
@@ -23,7 +23,7 @@ JWT.encode({payload}, secret, algorithm)
 JWT.encode({user_id: 1}, ENV['AUTH_SECRET'], "HS256")
 ```
 
-(For setting the secret, the <a href="https://github.com/bkeepers/dotenv">dotenv-rails gem</a> provides an easy method of storing environment variables during development. You can then create a .env file, add it to your .gitignore, and set your secret there: 
+(For setting the secret, the <a href="https://github.com/bkeepers/dotenv">dotenv-rails gem</a> provides an easy method of storing environment variables during development. You can then create a `.env` file, add it to your `.gitignore`, and set your secret there: 
 
 ```
 export AUTH_SECRET:super_secret_authorization_code
